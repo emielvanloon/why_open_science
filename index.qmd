@@ -1,0 +1,63 @@
+---
+title: "Open Science"
+subtitle: "What does it mean and why is it important?"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/UvA_logo_text_at_right.png
+    css: styles.css
+    footer: <https://emielvanloon.github.io/why_open_science>
+resources:
+  - demo.pdf
+---
+
+## Open Science - what do we mean with it?
+
+Open science does not have any one fixed definition. We use it as shorthand for 
+all scientific practices which aim to enhance:
+
+-   Transparency in experimental methodology, observation, and collection of data.
+-   Public availability and reusability of scientific data and code.
+-   Public accessibility and transparency of scientific communication.
+-   Using web-based tools to facilitate scientific collaboration.
+
+::: footer
+Learn more: [Wikipedia page](https://en.wikipedia.org/wiki/Open_science)
+:::
+
+## Open Science - what is the purpose?
+
+The ultimate aims of Open Science are to maximize:
+
+- The overall effectiveness of scientific research.
+- The public trust in science.
+
+See also [paper by Haven et al. (2022)](https://doi.org/10.1186/s13104-022-06169-y).
+
+::: footer
+Learn more: [via this recorded meeting](https://sciathon.org/open-science/)
+:::
+
+## Open Science in 15 keywords
+
+![](./images/open_scholarship_in_keywords.png){.absolute top="170" left="30" width="800" height="400"}
+
+::: footer
+[Source](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science) by
+[Tony Ross-Hellauer](https://scholar.google.com/citations?hl=en&user=IU6V52gAAAAJ&view_op=list_works&sortby=pubdate)
+:::
+
+## Why you should learn about Open Science practices
+
+-   Most of these practices are simply 'good practices' that promote transparency and accountability. Therefore they are going to be important in any profession in the future - not only within science, but also in government and industry.
+-   They are complex and it requires training before you can apply (best) practices and (software) tools.
+-   Applying OS-practices will be helpful in your own BSc research project - [see this paper](https://portlandpress.com/biochemist/article/43/6/66/230441/The-benefits-of-an-open-science-approach-in)
+
+## Where to go next to learn more?
+
+-   [Read this interesting blogpost by Nate Breznau](https://crowdid.hypotheses.org/961)
+-   [Read this excellent open access text book by Frank Miedema, 'Open Science, the Very Idea'](https://link.springer.com/book/10.1007/978-94-024-2115-6)
+-   [Study modules from the open science MOOC](https://opensciencemooc.eu/)
